@@ -1,4 +1,4 @@
-# ai_integrate
+# ai_project
 
 A new Flutter project.
 
